@@ -4,7 +4,7 @@ Este proyecto consiste en el diseño e implementación de un ecosistema digital 
 
 ---
 
-## 📐 Arquitectura del Sistema y Patrones de Diseño
+## Arquitectura del Sistema y Patrones de Diseño
 
 El sistema se estructura bajo un enfoque modular guiado por una jerarquía de herencia de tres niveles y abstracciones estrictas:
 *   **Modelo de Herencia Cohesivo:** Basado en la clase abstracta raíz `Persona` y la clase abstracta intermedia `Funcionario`, especializándose en los tipos concretos `Estudiante`, `Interino` y `Propietario`.
