@@ -35,7 +35,7 @@ La interfaz gráfica opera directamente sobre la clase controladora `ComunidadTE
 
 ---
 
-## 🛠️ Tecnologías y Entorno
+## Tecnologías y Entorno
 *   **Lenguaje:** Java 8 o superior.
 *   **IDE:** NetBeans / VS Code.
 *   **Framework GUI:** Java Swing (Componentes renombrados bajo convención técnica, ej: `tbComunidad`, `txtSalario`).
